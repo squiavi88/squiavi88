@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuri.</h1>
-<h3 align="center">A passionate web developer from Spain.</h3>
+<h3 align="center">I'nm not a bot. I'm a passionate web developer.</h3>
 
 - 💬 Ask me about **Java Script, Java, PHP, Mysql**
 
